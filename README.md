@@ -1,4 +1,4 @@
-## Hi there 👋
+## wip cz i have no idea how to make ts
 
 <!--
 **bambibamie/bambibamie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
