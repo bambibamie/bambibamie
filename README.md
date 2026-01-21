@@ -1,5 +1,3 @@
-## wip cz i have no idea how to make ts
-
 <div align = center>
 <table>
   <td>
